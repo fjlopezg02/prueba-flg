@@ -1,0 +1,3 @@
+Este archivo funciona como ejemplo merge
+Este archivo fue creado en al rama dev
+Sí este archivo se encuentra en la rama main el merge se realizó con exito

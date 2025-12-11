@@ -1,4 +1,4 @@
-select * from 'tu tabla'
+select * from 'crp-pro-dwh-semanticagold.EIL_DP_VDWH.VFAC_POS_TRN_SAS'
 
 -- Ventas totales POS:
 
